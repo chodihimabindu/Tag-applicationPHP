@@ -1,0 +1,80 @@
+http://www.mkyong.com/spring-security/spring-security-form-login-example/
+
+
+https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1
+
+
+http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/
+
+
+http://websystique.com/springmvc/spring-4-mvc-form-validation-with-hibernate-jsr-validator-resource-handling-using-annotations/
+
+
+
+https://www.dineshonjava.com/microservices-with-spring-boot/
+
+   
+https://www.behance.net/gallery/24300925/File-share-app-UI-design    (shareit)
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
+
+http://api.jquery.com/slidedown/
+
+
+https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types          (imp search)
+
+https://www.w3schools.com/howto/howto_css_loader.asp
+
+
+https://googlechrome.github.io/samples/web-bluetooth/battery-level.html
+
+https://stackoverflow.com/questions/32990045/get-the-data-from-database-with-ajax
+
+
+https://www.lucidchart.com/documents/edit/f6edeb27-5ffa-4620-a1f5-c18d83fefeb1/1
+
+
+https://www.codeply.com/go/VsGU0Y2QfK/bootstrap-4-navbar-transparent
+
+
+https://bootsnipp.com/tags/search      (serch boxes)
+
+
+http://www.jqueryscript.net/tags.php?/text%20animation/       (Text Animations)
+
+https://freebiesupply.com/blog/css-text-effects-from-codepen/
+
+https://www.jssor.com/        animation gud
+
+
+https://github.com/WebBluetoothCG/demos/tree/gh-pages/heart-rate-sensor     (heart rate sensor)
+
+
+https://rawgit.com/chafey/dicomParser/master/examples/dragAndDropDump/index.html     (dicom dump)
+https://rawgit.com/chafey/dicomParser/master/examples/index.html
+https://github.com/rii-mango/Daikon
+https://imagej.nih.gov/ij/developer/api/                  (imagej library)
+https://www.neologica.it/eng/Tutorial/DICOMStorageCommitment        (tutorial)
+https://github.com/chafey/dicomParser          (dicomParser)
+https://in.mathworks.com/help/images/create-new-dicom-series.html
+
+4757817261
+
+https://codepen.io/rgfx/pen/aixDn
+
+
+		background: url("imgs/dw.jpg") no-repeat center center fixed;
+        background-size: cover;
+onclick="location.href = 'patientlogin.html'"
+
+
+https://www.w3schools.com/cssref/playit.asp?filename=playcss_font-family&preval=initial        (fonts)
+
+http://www.tutorialized.com/tutorial/Add-Edit-and-Delete-Rows-From-Tables-Dynamically-With-JavaScript/86217         (edit/delete/save table)
+
+
+https://www.w3schools.com/angular/tryit.asp?filename=try_ng_form_select
+
+
+https://www.formget.com/angularjs-crud/#crud_read                      (angular db)
